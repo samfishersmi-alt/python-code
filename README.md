@@ -1,6 +1,6 @@
 # python-code
 import random
-
+import time
 questions = [
     "Would you rather be able to fly or be invisible?",
     "Would you rather live in space or under the sea?",
@@ -11,3 +11,4 @@ questions = [
 
 print("🤔 Here's your 'Would You Rather' question:")
 print(random.choice(questions))
+input()
