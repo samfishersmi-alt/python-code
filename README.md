@@ -11,4 +11,3 @@ questions = [
 
 print("🤔 Here's your 'Would You Rather' question:")
 print(random.choice(questions))
-input()
