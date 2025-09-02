@@ -8,7 +8,7 @@ questions = [
     "Would you rather time travel to the past or the future?",
     "Would you rather speak every language or play every instrument?"
 "would you rather be a wisdom or a rich person?"
-]
+'Would you rather speak to animals or being invisible ? ']
 
 print("🤔 Here's your 'Would You Rather' question:")
 print(random.choice(questions))
