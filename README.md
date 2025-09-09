@@ -1,6 +1,7 @@
 # python-code
 import random
 import time
+import matplotlib 
 questions = [
     "Would you rather be able to fly or be invisible?",
     "Would you rather live in space or under the sea?",
