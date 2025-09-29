@@ -1,5 +1,7 @@
 # python-code
 import random
+x= True 
+while x:
 questions = [
     "Would you rather be able to fly or be invisible?",
     "Would you rather live in space or under the sea?",
